@@ -13,5 +13,5 @@ export function subtract(x,y){
 }
 
 export function square(x){
-    return x ** x
+    return x ** 2
 }
